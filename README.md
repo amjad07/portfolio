@@ -25,6 +25,15 @@ From idea to launch, our team handles **design, development, testing, and deploy
 Send money and make payments in your local currency at a rate you choose.  
 [▶ Play Store](https://play.google.com/store/apps/details?id=com.swap.swap&hl=en&gl=US) | [ App Store](https://apps.apple.com/pk/app/swap-by-vitalswap/id1595742241)
 
+<kbd>Swap – Client View</kbd>  
+<p align="center">
+  <img src="assets/swap by vital swap/unnamed.png" width="200"/>
+  <img src="assets/swap by vital swap/unnamed.jpg" width="200"/>
+  <img src="assets/swap by vital swap/unnamed-2.jpg" width="200"/>
+  <img src="assets/swap by vital swap/unnamed-3.png" width="200"/>
+  <img src="assets/swap by vital swap/unnamed-4.png" width="200"/>
+  <img src="assets/swap by vital swap/unnamed-5.png" width="200"/>
+</p>
 ---
 
 ### 🧠 Corra – AI Health Assistant  
@@ -33,6 +42,14 @@ Send money and make payments in your local currency at a rate you choose.
 Uses proprietary AI to correlate health data and support personal health insights.  
 [▶ Play Store](https://play.google.com/store/apps/details?id=com.corra&hl=en&gl=US) | [ App Store](https://apps.apple.com/pk/app/corra-health-assistant/id1567298743)
 
+<kbd>Corra – Client View</kbd>  
+<p align="center">
+  <img src="assets/corra/IMG_1923.PNG" width="200"/>
+  <img src="assets/corra/IMG_1922.PNG" width="200"/>
+  <img src="assets/corra/IMG_1921.PNG" width="200"/>
+  <img src="assets/corra/IMG_1920.PNG" width="200"/>
+  <img src="assets/corra/IMG_1918.PNG" width="200"/>
+</p>
 ---
 
 ### 📝 Noota – AI Meeting Assistant  
@@ -41,6 +58,15 @@ Uses proprietary AI to correlate health data and support personal health insight
 Automated voice-to-text, meeting summaries, and real-time suggestions using AI.  
 🌐 [Website](https://www.noota.io) | [▶ Play Store](https://play.google.com/store/apps/details?id=com.noota_react_native) | [ App Store](https://apps.apple.com/fr/app/noota-call-voice-to-text/id6742792493?l=en-GB)
 
+
+<kbd>Noota – Client View</kbd>  
+<p align="center">
+  <img src="assets/noota/unnamed-7.png" width="200"/>
+  <img src="assets/noota/unnamed-8.png" width="200"/>
+  <img src="assets/noota/unnamed-9.png" width="200"/>
+  <img src="assets/noota/unnamed-10.png" width="200"/>
+  <img src="assets/noota/unnamed-11.png" width="200"/>
+</p>
 ---
 
 ### 🛡 easyConsent – Family Consent App  
@@ -48,6 +74,15 @@ Automated voice-to-text, meeting summaries, and real-time suggestions using AI.
 **Role**: Native iOS app development  
 Manages school, travel, and family consents in one secure app.  
 🌐 [Website](https://easyconsent.app) | [ App Store](https://apps.apple.com/us/app/easyconsent/id6479038264)
+
+<kbd>easyConsent – Client View</kbd>  
+<p align="center">
+  <img src="assets/easyconsent/1.jpg" width="200"/>
+  <img src="assets/easyconsent/2.jpg" width="200"/>
+  <img src="assets/easyconsent/3.jpg" width="200"/>
+  <img src="assets/easyconsent/4.jpg" width="200"/>
+  <img src="assets/easyconsent/5.jpg" width="200"/>
+</p>
 
 ---
 
@@ -73,6 +108,14 @@ Built on a microservices architecture for scalability and role separation.
 - Resume & Cover Letter Generator (AI)  
 - Job & Contact Tracker  
 - Offer Negotiation Tools  
+
+<kbd>FixedCost – Client View</kbd>  
+<p align="center">
+  <img src="assets/fixedCost/1.png" width="200"/>
+  <img src="asset/fixedCost/2.png" width="200"/>
+  <img src="assets/fixedCost/3.png" width="200"/>
+</p>
+
 
 ---
 
