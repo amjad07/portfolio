@@ -17,47 +17,62 @@
 From idea to launch, our team handles **design, development, testing, and deployment** — making sure your product is not just functional, but market-ready.
 
 ---
-
 ## 💼 Featured Projects
 
 ### 🔄 Swap by Vitalswap  
 **Type**: Fintech – Mobile App  
 **Role**: API Integration, Flutter UI Development  
-Send money and make payments in your local currency at a rate you choose.
-
-- [Play Store](https://play.google.com/store/apps/details?id=com.swap.swap&hl=en&gl=US)
-- [App Store](https://apps.apple.com/pk/app/swap-by-vitalswap/id1595742241)
+Send money and make payments in your local currency at a rate you choose.  
+[▶ Play Store](https://play.google.com/store/apps/details?id=com.swap.swap&hl=en&gl=US) | [ App Store](https://apps.apple.com/pk/app/swap-by-vitalswap/id1595742241)
 
 ---
 
 ### 🧠 Corra – AI Health Assistant  
 **Type**: AI/Health – Mobile App  
 **Role**: Flutter-based mobile development and feature fixes  
-Uses proprietary AI to correlate health data and support personal health insights.
-
-- [Play Store](https://play.google.com/store/apps/details?id=com.corra&hl=en&gl=US)
-- [App Store](https://apps.apple.com/pk/app/corra-health-assistant/id1567298743)
+Uses proprietary AI to correlate health data and support personal health insights.  
+[▶ Play Store](https://play.google.com/store/apps/details?id=com.corra&hl=en&gl=US) | [ App Store](https://apps.apple.com/pk/app/corra-health-assistant/id1567298743)
 
 ---
 
 ### 📝 Noota – AI Meeting Assistant  
 **Type**: SaaS + Mobile App  
 **Role**: Mobile integration and support  
-Automated voice-to-text, meeting summaries, and real-time suggestions using AI.
-
-- 🌐 [Website](https://www.noota.io/)
-- [App Store](https://apps.apple.com/fr/app/noota-call-voice-to-text/id6742792493?l=en-GB)
-- [Play Store](https://play.google.com/store/apps/details?id=com.noota_react_native)
+Automated voice-to-text, meeting summaries, and real-time suggestions using AI.  
+🌐 [Website](https://www.noota.io) | [▶ Play Store](https://play.google.com/store/apps/details?id=com.noota_react_native) | [ App Store](https://apps.apple.com/fr/app/noota-call-voice-to-text/id6742792493?l=en-GB)
 
 ---
 
 ### 🛡 easyConsent – Family Consent App  
 **Type**: SaaS + iOS Native  
 **Role**: Native iOS app development  
-Manages school, travel, and family consents in one secure app.
+Manages school, travel, and family consents in one secure app.  
+🌐 [Website](https://easyconsent.app) | [ App Store](https://apps.apple.com/us/app/easyconsent/id6479038264)
 
-- 🌐 [Website](https://easyconsent.app/)
-- [App Store](https://apps.apple.com/us/app/easyconsent/id6479038264)
+---
+
+### 🧠 FixedCost – AI-Powered Job Seeker Platform  
+**Type**: SaaS | Microservices | Multi-Party  
+**Role**: Full-stack Development
+
+A powerful AI-driven job seeker platform featuring a client portal and an admin dashboard.  
+Built on a microservices architecture for scalability and role separation.
+
+🔐 **Admin Panel**: [app.testjsg.com/login](https://app.testjsg.com/login)  
+`Email: mahnoor+fixedcost@techsea.io`  
+`Password: Fdsa432!`  
+
+👤 **Client Portal**: [fixedcost.testjsg.com](https://fixedcost.testjsg.com/)
+
+**Admin Features:**
+- Subscription Management  
+- User Management & Roles  
+- Analytics Dashboard  
+
+**Client Features:**
+- Resume & Cover Letter Generator (AI)  
+- Job & Contact Tracker  
+- Offer Negotiation Tools  
 
 ---
 
