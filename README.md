@@ -14,7 +14,7 @@
 - 💻 **Web Development** (React, Next.js, Vue, Laravel)
 - 🔌 **API Integrations** (REST, GraphQL, Firebase, Node.js, Flask)
 
-From idea to launch, our team handles **design, development, testing, and deployment** — ensuring your product is not just functional, but market-ready.
+From idea to launch, our team handles **design, development, testing, and deployment** — making sure your product is not just functional, but market-ready.
 
 ---
 
