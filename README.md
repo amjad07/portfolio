@@ -112,7 +112,7 @@ Built on a microservices architecture for scalability and role separation.
 <kbd>FixedCost – Client View</kbd>  
 <p align="center">
   <img src="assets/fixedCost/1.png" width="200"/>
-  <img src="asset/fixedCost/second.png" width="200"/>
+  <img src="assets/fixedCost/second.png" width="200"/>
   <img src="assets/fixedCost/3.png" width="200"/>
 </p>
 
